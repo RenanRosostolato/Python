@@ -9,4 +9,5 @@ print(saldo < saque)
 print(saldo <= saque)
 
 
+
 #sempre resultará num valor booleano - True ou False.
